@@ -6,7 +6,8 @@ public class Main {
         x.formatText("tHiS is SenTenCe");
         System.out.println(x.formatText("tHiS is SenTenCe"));
         English y = new English();
-        y.translate("pEs");
-
+        y.translate("pes");
+        Math z = new Math();
+        z.reverse(123);
     }
 }
