@@ -1,3 +1,5 @@
+//Name: Kekesiova
+
 package sk.itsovy;
 
 public class SlovakLang extends Subject {
