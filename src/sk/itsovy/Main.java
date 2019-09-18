@@ -7,7 +7,8 @@ public class Main {
         System.out.println(x.formatText("tHiS is SenTenCe"));
         English y = new English();
         y.translate("pes");
-        Math z = new Math();
+        Mathematics z = new Mathematics();
         z.reverse(123);
+        System.out.println(z.isPrime(991));
     }
 }

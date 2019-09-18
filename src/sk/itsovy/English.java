@@ -1,5 +1,3 @@
-//Name: Kekesiova
-
 package sk.itsovy;
 
 import java.util.HashMap;
